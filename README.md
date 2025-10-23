@@ -1,4 +1,5 @@
 # 🧾 Revenue Analysis Dashboard- Excel Project
+## 👨‍💻 By Adejoro Raymond Olaotan
 
 ![Revenue Analysis Dashboard](./Revenue%20Analysis%20DashBoard%202.jpg)
 
