@@ -128,4 +128,4 @@ This structured PPDAC approach demonstrates **how simple Excel analytics can rev
 
 **👤 Adejoro Raymond Olaotan**  
 Data & Business Analyst | Excel • Tableau • Power BI • Python • SQL  
-📧 <a href="https://www.linkedin.com/in/raymond-adejoro-52989b143">LinkedIn</a></li> | 🌐 [Portfolio Website](https://enerlytic-ray.github.io/)
+📧 <a href="https://www.linkedin.com/in/raymond-adejoro-52989b143">LinkedIn</a></li> | 🌐 [Portfolio Website](https://enerlytic-ray.github.io/Revenue-Analysis-Dashboard.html)
